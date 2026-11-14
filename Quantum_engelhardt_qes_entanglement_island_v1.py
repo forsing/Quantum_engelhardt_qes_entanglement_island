@@ -15,9 +15,9 @@ np.random.seed(39)
 
 
 FILES = (
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4718_k90.csv"),
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4718_k90_loto_2981.csv"),
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4718_k90_loto_plus_1737.csv"),
+    Path("/data/loto7_4718_k90.csv"),
+    Path("/data/loto7_4718_k90_loto_2981.csv"),
+    Path("/data/loto7_4718_k90_loto_plus_1737.csv"),
 )
 
 
